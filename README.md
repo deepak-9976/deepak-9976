@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/deepak9976" target="blank"><img src="https://img.shields.io/twitter/follow/deepak9976?logo=twitter&style=for-the-badge" alt="deepak9976" /></a> </p>
 
-- 🔭 I’m currently working on **RecommendBackend** ** RecommendFrontend** 
+- 🔭 I’m currently working on **RecommendBackend** **RecommendFrontend** **RecommendInfra**
 
 - 🌱 I’m currently learning **Angular , Kuberenetes, Java Spring boot**
 
