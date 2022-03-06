@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **RecommendBackend** **RecommendFrontend** **RecommendInfra**
 
-- 🌱 I’m currently learning **Angular , Kuberenetes, Java Spring boot**
+- 🌱 I’m currently learning **Angular , Kubernetes, Java Spring boot , Jenkins , Terraform , Ansible**
 
 - 📝 I regularly write articles on [https://deepak-tech.com](https://deepak-tech.com)
 
-- 💬 Ask me about **Kuberenetes, Java Spring boot , devops**
+- 💬 Ask me about **Kuberenetes, Angular , Java Spring boot , devops , Google cloud , AWS , Devops Toolset**
 
 - 📫 How to reach me **contactme@deepak-tech.com**
 
