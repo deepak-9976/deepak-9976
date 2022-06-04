@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://deepak-tech.com](https://deepak-tech.com)
 
-- 💬 Ask me about **Kuberenetes, Angular , Java Spring boot , devops , Google cloud , AWS , Devops Toolset**
+- 💬 Ask me about **Kubernetes, Angular , Java Spring boot , devops , Google cloud , AWS , Devops Toolset**
 
 - 📫 How to reach me **contactme@deepak-tech.com**
 
