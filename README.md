@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **RecommendBackend** **RecommendFrontend** **RecommendInfra** **KongTraining**
 
-- 🔭 I’m currently giving training on Api Gateway Kong **KongTraining**
+- 🔭 I’m currently giving training on Api Gateway Kong
 
 - 🌱 I’m currently learning **Angular , Kubernetes, Java Spring boot , Jenkins , Terraform , Ansible , GitOps ArgoCD **
 
