@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A technical developer, solution provider from Nottingham</h3>
+<h3 align="center">A technical developer, trainer, solution provider from Nottingham</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-9976&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-9976" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deepak9976" target="blank"><img src="https://img.shields.io/twitter/follow/deepak9976?logo=twitter&style=for-the-badge" alt="deepak9976" /></a> </p>
 
-- 🔭 I’m currently working on **RecommendBackend** **RecommendFrontend** **RecommendInfra**
+- 🔭 I’m currently working on **RecommendBackend** **RecommendFrontend** **RecommendInfra** **KongTraining**
 
-- 🌱 I’m currently learning **Angular , Kubernetes, Java Spring boot , Jenkins , Terraform , Ansible**
+- 🔭 I’m currently giving training on Api Gateway Kong **KongTraining**
+
+- 🌱 I’m currently learning **Angular , Kubernetes, Java Spring boot , Jenkins , Terraform , Ansible , GitOps ArgoCD **
 
 - 📝 I regularly write articles on [https://deepak-tech.com](https://deepak-tech.com)
 
