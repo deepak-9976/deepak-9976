@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/deepak9976" target="blank"><img src="https://img.shields.io/twitter/follow/deepak9976?logo=twitter&style=for-the-badge" alt="deepak9976" /></a> </p>
 
-- 🔭 I’m currently working on **RecommendBackend** **RecommendFrontend** **RecommendInfra** **KongTraining**
+- 🔭 I’m currently working on **RecommendBackend** **RecommendFrontend** **RecommendInfra** **RecommendMicroServices** **KongTraining** **DevOps Training Course**
 
-- 🔭 I’m currently giving training on Api Gateway Kong
+- 🔭 I’m currently giving training on Api Gateway Kong and Devops Training Course
 
-- 🌱 I’m currently learning **Angular , Kubernetes, Java Spring boot , Jenkins , Terraform , Ansible , GitOps ArgoCD **
+- 🌱 I’m currently learning **Angular , Kubernetes, Helm, Java Spring boot , Jenkins , Terraform , Ansible , GitOps ArgoCD **
 
 - 📝 I regularly write articles on [https://deepak-tech.com](https://deepak-tech.com)
 
-- 💬 Ask me about **Kubernetes, Terraform , Ansible, , Docker, Angular , Java Spring boot , devops , Google cloud , AWS , Devops Toolset**
+- 💬 Ask me about **Kubernetes, Terraform , Ansible, Helm , Angular , Docker, Angular , Java Spring boot , devops , Google cloud , AWS , Devops Toolset**
 
 - 📫 How to reach me **contactme@deepak-tech.com**
 
