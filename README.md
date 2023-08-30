@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Angular , Kubernetes, Helm, Java Spring boot , Jenkins , Terraform , Ansible , GitOps ArgoCD **
 
-- 📝 I regularly write articles on [https://deepak-tech.com](https://deepak-tech.com)
+- 📝 I regularly write articles on [https://deepak-tech.com](https://deepak-tech.com) and [https://www.linkedin.com/in/deepak-sharma-57aa979](https://www.linkedin.com/in/deepak-sharma-57aa979/)
 
-- 💬 Ask me about **Kubernetes, Terraform , Ansible, Helm , Angular , Docker, Angular , Java Spring boot , devops , Google cloud , AWS , Devops Toolset**
+- 💬 Ask me about **Kubernetes**, **Terraform** , **Ansible**, **Helm** , **Angular** , **Docker**,  **Java Spring boot** , **devops** , **Google cloud** , **AWS** , **Devops Toolset**
 
 - 📫 How to reach me **contactme@deepak-tech.com**
 
